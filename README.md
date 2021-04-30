@@ -1,1 +1,3 @@
-# MA705Final
+# MA705Final - Candice Wu
+
+This Project
