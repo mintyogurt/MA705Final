@@ -2,7 +2,7 @@
 
 Candice Wu
 
-The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities.herokuapp.com).
+The final dashboard is deployed on Heroku [here](https://ma705candice.herokuapp.com/).
 
 ## Dashboard Description
 
