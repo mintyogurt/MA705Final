@@ -171,5 +171,7 @@ def update_plot(options):
     fig.update_traces(mode='markers+lines')
     return fig
 
+server = app.server
+
 if __name__ == '__main__':
     app.run_server(debug=False)
