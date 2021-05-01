@@ -1,7 +1,22 @@
-# MA705Final - Candice Wu
+# MA705 Final Project
 
-This Project uses data scraped from YouGov Brand Index filtered to 15 Fast Casual Dining Brands.
+This repository contains files used in the MA705 dashboard project.
 
-The csv file served for the dashabord is cleaned to reflect 2021 Q1 1/1-3/31 weekly scores.
+Use Markdown to write your readme.md file.  Here is a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
 
-The dashboard is devided to 2 sections (Customer action and Brand Impact)and provides visuals to see the comparison between brands, Q1 wow trend and individual brand performance.
+The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities.herokuapp.com).
+
+## Dashboard Description
+
+Brief description of dashboard's purpose.
+
+### Data Sources
+
+Brief description of where/how you got the data and how it was processed.
+
+- List of Sources
+- List of Sources
+
+### Other Comments
+
+Anything you'd like to add
